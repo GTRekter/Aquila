@@ -1,0 +1,17 @@
+/**
+ * @author  	Ivan Porta
+ * @copyright 	Copyright (c) 2015.
+ * @license  	GLP
+ * @since  		Version 1.0
+ * @version  	1.0
+ */
+/* ------------------------------------------------------------------------ */
+
+@media (max-width: 767px) {
+	.login-body {
+		margin-top: 20px;
+	}
+	.login-body .container {
+		margin-top: 0px !important;
+	}
+}
